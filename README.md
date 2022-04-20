@@ -1,4 +1,22 @@
-### Hi there 👋
+# Kiefer Luttrell
+
+
+
+
+## Interests
+1. Music
+2. Outdoors
+3. Football
+## Technologies Taught
+
+* JavaScript
+* HTML/CSS
+
+
+##Jobs
+
+|Company| Role|Years
+|--|--|
 
 <!--
 **kluttrell12/kluttrell12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
