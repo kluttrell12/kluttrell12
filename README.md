@@ -1,24 +1,24 @@
-# Kiefer Luttrell
+<h1 align="center">Hi, I'm Kiefer Luttrell</h1>
+<h3 align="center">A passionate full-stack developer based in Nashville, TN</h3>
 
-## Interests
-1. Music
-2. Outdoors
-3. Football
-## Technologies Taught
+- 🌱 I’m currently learning **Django/Python**
 
-* JavaScript
-* HTML/CSS
-## Jobs
+- 👨‍💻 All of my projects are available at [https://github.com/kluttrell12?tab=repositories](https://github.com/kluttrell12?tab=repositories)
 
-* Senior Special Forces Engineer at 
-  5th Special Forces Group from August 2014 - February 2019.
+- 💬 Ask me about **React.js , JavaScript or anything coding related!**
 
-* June 2019 - May 2021 -- Finished Bachelor's Degree in English from Lipscomb University.
+- 📫 How to reach me **kieferluttrell@gmail.com**
 
-* Development Associate at Episcopal School of Nashville from November 2021 - March 2022.
+- 📄 Know about my experiences [https://docs.google.com/document/d/157lv7qvOEmpeqeEUu2XJa8A0yFsVNZ-JdDLO6YUCp4s/edit?usp=sharing](https://docs.google.com/document/d/157lv7qvOEmpeqeEUu2XJa8A0yFsVNZ-JdDLO6YUCp4s/edit?usp=sharing)
 
-* Student Software Developer at Nashville Software School from April 2022 - present.
+- ⚡ Fun facts about me **I served in U.S. Army Special Forces for 4 1/2 years. I speak Persian-Farsi. I'm also a musician.**
 
-##
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kiefer-luttrell/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiefer-luttrell/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
