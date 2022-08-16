@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kiefer Luttrell</h1>
 <h3 align="center">A passionate full-stack developer based in Nashville, TN</h3>
 
-- 🌱 I’m currently learning **Django/Python**
+- 🌱 I’m currently learning **Python/Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kluttrell12?tab=repositories](https://github.com/kluttrell12?tab=repositories)
 
