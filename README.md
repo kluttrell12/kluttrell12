@@ -1,17 +1,9 @@
 <h1 align="center">Hi, I'm Kiefer Luttrell</h1>
-<h3 align="center">A passionate full-stack developer based in Nashville, TN</h3>
+<h3 align="center">A full-stack developer based in Nashville, TN</h3>
 
-- 🌱 I’m currently learning **Python/Django**
+- I’m currently a full-stack developer for **Black Rifle Coffee Company**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kluttrell12?tab=repositories](https://github.com/kluttrell12?tab=repositories)
-
-- 💬 Ask me about **React.js , JavaScript or anything coding related!**
-
-- 📫 How to reach me **kieferluttrell@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/157lv7qvOEmpeqeEUu2XJa8A0yFsVNZ-JdDLO6YUCp4s/edit?usp=sharing](https://docs.google.com/document/d/157lv7qvOEmpeqeEUu2XJa8A0yFsVNZ-JdDLO6YUCp4s/edit?usp=sharing)
-
-- ⚡ Fun facts about me **I served in U.S. Army Special Forces for 4 1/2 years. I speak Persian-Farsi. I'm also a musician.**
+- All of my projects are available at [https://github.com/kluttrell12?tab=repositories](https://github.com/kluttrell12?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
